@@ -1,0 +1,209 @@
+{
+  "metaTags":{
+    "metaTitle":"jupitermeet page new",
+    "metaDescription":"this is info about the jupitermeet page",
+    "type":"jupitermeet page"
+
+  },
+    
+  "hero": {
+      "title": "JupiterMeet",
+      "description": "Host Your Own Video Conferencing Solution!.",
+      "image": "https://th.bing.com/th/id/OIP.i_r1HV7ZqLnIv3U9rpuFTQHaFj?w=234&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "primary-color": "#555555",
+      "ctas": [
+        {
+          "id": "1",
+          "title": "Buy Now",
+          "link": "https://example.com/buy",
+          "isPrimary": true
+        },
+        {
+          "id": "2",
+          "title": "View Demo",
+          "link": "https://example.com/demo",
+          "isPrimary": false
+        }
+      ]
+    },
+    "logos": {
+      "title": "companies",
+      "description": "sample description",
+      "data": [
+        {
+          "id": "1",
+          "title": "company name",
+          "image": "images/logoipsum-250.svg"
+        },
+        {
+          "id": "2",
+          "title": "company name",
+          "image": "images/logoipsum-240.svg"
+        },
+        {
+          "id": "3",
+          "title": "company name",
+          "image": "images/logoipsum-237.svg"
+        },
+        {
+          "id": "4",
+          "title": "company name",
+          "image": "images/logoipsum-236.svg"
+        }
+      ]
+    },
+    "features": {
+      "title": "Core Features",
+      "description": "Core features description",
+      "data": [
+        {
+          "id": "1",
+          "title": "Peer-to-Peer WebRTC Technology",
+          "description": "sample description",
+          "image": "https://th.bing.com/th/id/OIP.sBYXK8bFo4OHWWV3BKnYRgHaDt?w=343&h=174&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        },
+        {
+          "id": "2",
+          "title": "End-to-End Encryption",
+          "description": "sample description",
+          "image": "https://th.bing.com/th/id/OIP.pozo4JZZ9odW-6x4xZs8MgHaHa?w=212&h=212&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        },
+        {
+          "id": "3",
+          "title": "SaaS",
+          "description": "sample description",
+          "image": "https://th.bing.com/th/id/OIP.NeRTN2nIXkWKGDe4w9nD6gHaHa?w=182&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        },
+        {
+          "id": "4",
+          "title": "4K Video Support",
+          "description": "Crystal-clear video.",
+          "image": "https://th.bing.com/th/id/OIP.GY2xIelGG6Vga94MWmR6eAHaHa?w=198&h=198&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        },
+        {
+          "id": "5",
+          "title": "White-Label",
+          "description": "Customize and brand the platform as your own.",
+          "image": "https://th.bing.com/th/id/OIP.D2B1XSjIvCnU_2olbglnxQHaFj?w=210&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Pricing Plans",
+      "description": "one time payment - lifetime access.",
+      "data": [
+        {
+          "id": "1",
+          "title": "Regular License",
+          "description": "Ideal for small to medium-sized businesses.",
+          "price": "$499",
+          "ctaText": "Buy Now",
+          "ctaLink": "https://example.com/buy/regular"
+        },
+        {
+          "id": "2",
+          "title": "Extended License",
+          "description": "Perfect for large enterprises and resellers.",
+          "price": "$999",
+          "ctaText": "Buy Now",
+          "ctaLink": "https://example.com/buy/extended"
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "description": "Get started with JupiterMeet in just a few steps.",
+      "data": [
+        {
+          "id": "1",
+          "title": "step 1",
+          "description": "sample description",
+          "icon": "https://th.bing.com/th?id=OIP.VxpJBRS6apduUJkJponf_gHaJA&w=226&h=275&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+          "id": "2",
+          "title": "step 2",
+          "description": "sample description",
+          "icon": "https://th.bing.com/th?id=OIP.VxpJBRS6apduUJkJponf_gHaJA&w=226&h=275&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+          "id": "3",
+          "title": "step 3",
+          "description": "sample description",
+          "icon": "https://th.bing.com/th?id=OIP.zg2zgQZJSZ3GFVzT41hb7QAAAA&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        },
+        {
+          "id": "4",
+          "title": "step 4",
+          "description": "sample description",
+          "icon": "https://th.bing.com/th?id=OIP.zg2zgQZJSZ3GFVzT41hb7QAAAA&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        }
+      ],
+      "demoVideo": "https://www.bing.com/videos/riverview/relatedvideo?q=demo+video+download&&mid=A720E28B42B61F4EB464A720E28B42B61F4EB464&FORM=VCGVRP",
+      "setupGuides": "https://www.bing.com/videos/riverview/relatedvideo?q=demo+video+download&&mid=A720E28B42B61F4EB464A720E28B42B61F4EB464&FORM=VCGVRP"
+    },
+    "gallery": {
+      "title": "App screenshots",
+      "description": "Check out some of the screenshots of the application.",
+      "images": [
+        " appScreenShots/jupiter-pro-ss-1.png ",
+        " appScreenShots/jupiter-pro-ss-2.png  ",
+        " appScreenShots/jupiter-pro-ss-3.png",
+        " appScreenShots/jupiter-pro-ss-4.png",
+        " appScreenShots/jupiter-ss-3.png ",
+        " appScreenShots/jupiter-ss-4.png",
+        " appScreenShots/jupiter-ss-5.png",
+        " appScreenShots/jupiter-ss-6.png",
+        " appScreenShots/jupiter-ss-1.png",
+        " appScreenShots/jupiter-pro-ss-6.png "
+      ]
+    },
+    "testimonials": {
+      "title": "What Our Customers Say",
+      "description": "Hear from our satisfied users.",
+      "image": "https://th.bing.com/th?id=OIP.0yTCarWw4O4578V-SF3pUgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+      "data": [
+        {
+          "id": "1",
+          "title": "name of user",
+          "description": "JupiterMeet has transformed our telemedicine services. Highly recommended!",
+          "image": "https://th.bing.com/th?id=OIP.dzdVCP1SebLcsHTctxFqJQHaGN&w=273&h=228&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+          "rating": 5
+        },
+        {
+          "id": "2",
+          "title": "name of user",
+          "description": "The self-hosted solution gave us full control over our data. Excellent product!",
+          "image": "https://th.bing.com/th?id=OIP.f1Tp3NlXtpHp9RviwZmMSQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+          "rating": 5
+        }
+      ]
+    },
+    "faq": {
+      "image": "https://th.bing.com/th?id=OIP.tW4fB6gggrrq0YVVHBrDsgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about JupiterMeet.",
+      "data": [
+        {
+          "title": "sample title",
+          "description": "sample description"
+        }
+      ],
+      "supportLink": "https://example.com/support"
+    },
+    "ctas": [
+      {
+        "id": "1",
+        "title": "Buy Now",
+        "link": "https://example.com/buy",
+        "isPrimary": true
+      },
+      {
+        "id": "2",
+        "title": "Contact Us",
+        "link": "https://example.com/contact",
+        "isPrimary": false
+      }
+    ]
+  }
+  
